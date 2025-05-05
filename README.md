@@ -2,7 +2,7 @@
 
 **June 2–4, 2025 | Washington, D.C.**
 
-Welcome to the official repository for the SCSP x AGI House Hackathon 2025! This hackathon is co-hosted by the Special Competitive Studies Project (SCSP) and AGI House, taking place alongside the AI+ Expo at the Walter E. Washington Convention Center. Join over 300 innovators to tackle real-world challenges at the intersection of AI and national security.
+Welcome to the official repository for the SCSP x AGI House Hackathon 2025! This hackathon is co-hosted by the Special Competitive Studies Project (SCSP) and AGI House, taking place alongside the AI+ Expo at the Walter E. Washington Convention Center. Join over 300 innovators to tackle real-world challenges at the intersection of AI and national competitiveness.
 
 ## About the Hackathon
 
